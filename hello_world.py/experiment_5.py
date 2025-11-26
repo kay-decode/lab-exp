@@ -1,0 +1,6 @@
+s1 = input("enter first string :")
+s2 = input("enter seconed string :")
+print("first string is : ",s1)
+print("seconed string is :",s2)
+print("conatenations of two string :",s1+s2)
+print("substring of given string :",s1[1:4])
